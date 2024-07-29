@@ -2,7 +2,7 @@ package com.food.utility;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
-
+//
 public class DBConnection {
       
 	static Connection dbconnect=null;
