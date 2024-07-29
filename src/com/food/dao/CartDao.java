@@ -1,7 +1,7 @@
 package com.food.dao;
 
 import java.util.List;
-
+//dao
 import com.food.pojo.Cart;
 
 public interface CartDao {
