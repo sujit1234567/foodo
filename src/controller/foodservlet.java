@@ -72,7 +72,7 @@ public class foodservlet extends HttpServlet {
 		
 		
 		PrintWriter out=response.getWriter();
-		
+		//hello
 		int foodid;
 		String foodname,foodtype,foodcategory,foodimage,fooddescription;
 		double foodprice;
