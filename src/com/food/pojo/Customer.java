@@ -4,6 +4,7 @@ public class Customer {
 
 	private int custid;
 	private String custname,custemail,custpassword,custcontact,custaddress;
+	
 	public Customer() {
 		super();
 		// TODO Auto-generated constructor stub
