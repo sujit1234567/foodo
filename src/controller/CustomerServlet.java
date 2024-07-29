@@ -105,7 +105,7 @@ public class CustomerServlet extends HttpServlet {
 			 
 			  c=new Customer(custname,custemail,custpassword,custcontact,custaddress);
 			  flag=cd.addCustomer(c);
-			  
+			  System.out.println("flag"+flag);
 			  if(flag)
 			  {
 				  
