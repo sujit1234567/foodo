@@ -1,5 +1,5 @@
 package controller;
-
+//sujit
 import java.io.IOException;
 import java.io.PrintWriter;
 import javax.servlet.ServletException;
@@ -57,6 +57,7 @@ public class CartServlet extends HttpServlet {
 			else{
 				out.println("something went wrong...");
 				out.println("new feture1");
+				out.println("new feture2");
 			}
 			
 			
