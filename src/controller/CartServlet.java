@@ -56,6 +56,7 @@ public class CartServlet extends HttpServlet {
 			}
 			else{
 				out.println("something went wrong...");
+				out.println("new feture1");
 			}
 			
 			
